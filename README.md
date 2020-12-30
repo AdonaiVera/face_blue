@@ -20,7 +20,7 @@ It detects the user's face, applies some blur to that area and prints their face
 This is just a fun-afternoon-project developed to apply some simple computer vision commands.
 
 ## Examples in my mac with CPU
-![anonymization](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+![anonymization](https://github.com/AdonaiVera/face_blue/blob/master/img/example.png)
 
 
 
